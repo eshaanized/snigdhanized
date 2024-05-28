@@ -43,9 +43,10 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="50" /></a>  
 </div>  
+<b>My GitHub Stats</b>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snigdhanized&show_icons=true&theme=onedark&locale=en&layout=compact" alt="snigdhanized" /></p>
+<a href="http://www.github.com/snigdhanized"><img src="https://github-readme-stats.vercel.app/api?username=snigdhanized&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="snigdhanized's GitHub stats" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snigdhanized&show_icons=true&theme=onedark&locale=en" alt="snigdhanized" /></p>
+<a href="http://www.github.com/snigdhanized"><img src="https://github-readme-streak-stats.herokuapp.com/?user=snigdhanized&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snigdhanized&" alt="snigdhanized" /></p>
+<a href="https://github.com/snigdhanized" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snigdhanized&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
