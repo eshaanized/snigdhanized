@@ -3,7 +3,7 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsnigdhanized&labelColor=%23754ffe&countColor=%23f47373&labelStyle=upper)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsnigdhanized)
 
 <div align="center">
-## Languages and Tools  
+##Languages and Tools  
 </div>
 
 <div align="center">  
