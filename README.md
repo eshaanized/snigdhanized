@@ -43,7 +43,7 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="50" /></a>  
 </div>  
-<b>My GitHub Stats</b>
+<b align="center">My GitHub Stats</b>
 
 <a href="http://www.github.com/snigdhanized"><img src="https://github-readme-stats.vercel.app/api?username=snigdhanized&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="snigdhanized's GitHub stats" /></a>
 
