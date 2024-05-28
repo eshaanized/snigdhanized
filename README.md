@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=754FFE&center=true&vCenter=true&random=false&lines=Hi%2C+I'm+Eshanized.;An+Operating+System+Enthusiast!;Ask+me+about+Python+%26+Shell.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&color=754FFE&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+I'm+Eshanized.;An+Operating+System+Enthusiast!;Ask+me+about+Python+%26+Shell.)](https://git.io/typing-svg)
